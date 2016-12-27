@@ -1,6 +1,6 @@
 Hello Git..!!
 
-change 1
+change1
 
 change 2
 
